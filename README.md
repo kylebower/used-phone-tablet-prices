@@ -1,2 +1,2 @@
-# usedCars
-Predicting used car prices using Regression
+# usedPhones
+Predicting used phone prices using Regression
